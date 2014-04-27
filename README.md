@@ -1,7 +1,7 @@
 Share
 =====
-    FoodBookFinal.xlsx     食譜 \r\n
-    HtmlPaserDemo.rar       HTMLPASER  \r\n
+    FoodBookFinal.xlsx     食譜 
+    HtmlPaserDemo.rar       HTMLPASER  
     MainActivity.png        主介面的效果圖
     PersonalInf.xlsx        個人信息
     ProjectNotes.jpeg       專案的思維導圖
